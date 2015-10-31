@@ -1,0 +1,10 @@
+body {
+	background-color: #000;
+}
+
+#main {
+	margin-top: 10%;
+	height: 500px;
+	background-image: url('../images/bg.jpg');
+	background-size: 100%;
+}
